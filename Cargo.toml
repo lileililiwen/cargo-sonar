@@ -1,6 +1,6 @@
 [package]
 name = "cargo-sonar-boost"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2024"
 authors = ["Paul <paul@example.com>"]
 description = "🛡️ A zero-config code quality and technical debt dashboard CLI for Rust"
