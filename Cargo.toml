@@ -6,7 +6,7 @@ authors = ["Paul <paul@example.com>"]
 description = "🛡️ A zero-config code quality and technical debt dashboard CLI for Rust"
 license = "MIT"
 readme = "README.md"
-repository = "https://github.com/paul/cargo-sonar-boost"
+repository = "https://github.com/lileililiwen/cargo-sonar-boost"
 keywords = ["cargo", "clippy", "quality", "dashboard", "deny"]
 categories = ["development-tools::cargo-plugins", "development-tools"]
 
