@@ -8,6 +8,7 @@ checks:
   tests: true
   security: true
   declared-verification: true
+  governance-quality: true
 blocking:
   - FAIL
   - REVIEW_REQUIRED
@@ -26,3 +27,4 @@ commands:
   build: 'cargo build'
   tests: 'cargo test'
   security: 'cargo audit'
+  governance-quality: 'python3 ../workspace-governance/scripts/workspace_check.py --root .. --project cargo-sonar --json'
